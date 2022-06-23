@@ -1,3 +1,3 @@
 # Amazon-clone
 DEPLOYED version
- https://clone-559fe.web.app
+https://rpamazon-clone.netlify.app/
